@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/afreixas/Documents/cpp_native_test/HelloStaticLib/Libraries/Greeter.cpp
+Greeter.h
+/home/afreixas/Documents/cpp_native_test/HelloStaticLib/Libraries/Greeter.h
+stdio.h
+-
+string
+-
+
+/home/afreixas/Documents/cpp_native_test/HelloStaticLib/Libraries/Greeter.h
+stdio.h
+-
+iostream
+-
+

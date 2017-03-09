@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/HelloStaticLib.dir/helloStaticLib.cpp.o  -o HelloStaticLib  -L/home/afreixas/Documents/cpp_native_test/HelloStaticLib/Libraries -rdynamic -Wl,-Bstatic -lStaticLib -Wl,-Bdynamic -Wl,-rpath,/home/afreixas/Documents/cpp_native_test/HelloStaticLib/Libraries 

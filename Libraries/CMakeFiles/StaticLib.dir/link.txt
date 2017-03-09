@@ -1,0 +1,2 @@
+/usr/bin/ar cr libStaticLib.a  CMakeFiles/StaticLib.dir/Greeter.cpp.o
+/usr/bin/ranlib libStaticLib.a
