@@ -23,6 +23,7 @@ int main (int argc, char *argv[])
     cout << "Consider yourself greeted" << "\n";
     //cleaning memory
     delete greeter;
+    cout << "\n"<< "\n"<< "\n";
     
   return 0;
 }
